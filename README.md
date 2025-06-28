@@ -1,0 +1,2 @@
+# Mealify
+UI only
