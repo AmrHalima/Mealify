@@ -1,0 +1,15 @@
+body > * {
+    background-color: rgba(0, 255, 255, 0.528);
+}
+body > * > * {
+    background-color: rgba(255, 99, 71, 0.582);
+}
+body > * > * > * {
+    background-color: rgba(255, 127, 80, 0.75);
+}
+body > * > * > * > * {
+    background-color: rgba(222, 184, 135, 0.717);
+}
+body > * > * > * > * > * {
+    background-color: rgba(137, 43, 226, 0.77);
+}

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Open-Sans";
+
+    src: url("../webfonts/Open_Sans/OpenSans-VariableFont_wdth,wght.ttf");
+}
+@font-face {
+    font-family: "Amatic-SC";
+    src: url("../webfonts/Amatic_SC/AmaticSC-Regular.ttf");
+}
+@font-face {
+    font-family: "Inter";
+    src: url("../webfonts/Inter/Inter-VariableFont_opsz,wght.ttf");
+}
